@@ -10,8 +10,7 @@ B.Tech Computer Engineer with CGPA of 9.04, Passionate Learner
 - Data Science, Data Analysis, Data Visualization
 
 - 🔭 I’m currently working on Algorithms, Data Science and Web Designing
-- 🌱 I’m currently learning new skills
-- 👯 I’m looking to collaborate on ML, Data Science Projects and Web Development
+- 👯 I’m looking to collaborate on ML, Data Science and Web Development Projects
 - 💬 Ask me about Python, C, Data Structures, Algorithms, Data analysis, Data visualization, Web Development
 - 📫 How to reach me: Gmail : aakankshabhondve@gmail.com | 
          Linkedin : https://www.linkedin.com/in/aakanksha-bhondve-654716194/
