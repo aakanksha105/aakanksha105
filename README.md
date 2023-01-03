@@ -6,9 +6,8 @@ B.Tech Computer Engineer with CGPA of 9.04, Passionate Learner
 - Python Programming
 - C programming
 - HTML, CSS, Javascript, Web Designing
-- Machine Learning Algorithms
+- Artificial Intelligence & Machine Learning Algorithms
 - Data Science, Data Analysis, Data Visualization
-- Python Libraries
 
 - 🔭 I’m currently working on Algorithms, Data Science and Web Designing
 - 🌱 I’m currently learning new skills
